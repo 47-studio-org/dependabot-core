@@ -1,6 +1,6 @@
 {
     "require": {
-        "composer/composer": "1.10.22",
+        "composer/composer": "1.10.26",
         "php": "^7.1"
     },
     "require-dev": {
